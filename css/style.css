@@ -1,0 +1,153 @@
+.container{
+	border: 4px solid green;
+	width: 80%;
+	margin: auto;
+	height: 100%;
+}
+
+body{
+	height: 100%;
+}
+
+html{
+	height: 100%;
+}
+
+.red__first{
+	height: 130px;
+	border: 2px solid red;
+	width: 90%;
+	margin: 15px auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.first__blue__block{
+	width: 30%;
+	border: 2px solid blue;
+	height: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.second__block__blue{
+	width: 35%;
+	border: 2px solid blue;
+	height: 80%;
+}
+
+.first__block__yellow{
+	width:80%;
+	height: 40%;
+	border: 2px solid yellow;
+	margin: auto;
+}
+
+.red__second{
+    height: 100px;
+	border: 2px solid red;
+	width: 90%;
+	margin-bottom: 10px;
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;	
+}
+
+.red__third{
+	height: 300px;
+	border: 2px solid red;
+	width: 90%;
+	margin: 15px auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.red__fourth{
+	height: 130px;
+	border: 2px solid red;
+	width: 90%;
+	margin: 15px auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.first4__blue__block{
+	width: 30%;
+	border: 2px solid blue;
+	height: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.second4__block__blue{
+	width: 35%;
+	border: 2px solid blue;
+	height: 80%;
+}
+
+.first4__block__yellow{
+	width:80%;
+	height: 40%;
+	border: 2px solid yellow;
+	margin: auto;
+}
+
+.third__blue__block{
+	width: 27%;
+	border: 2px solid blue;
+	height: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.fourth__blue__block{
+	width: 20%;
+	border: 2px solid blue;
+	height: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.first3__blue__block{
+	width: 30%;
+	border: 2px solid blue;
+	height: 90%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.second3__blue__block{
+	width: 65%;
+	border: 2px solid blue;
+	height: 90%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.first3__block__yellow{
+	width:95%;
+	height: 60%;
+	border: 2px solid yellow;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.second3__block__yellow{
+	width:95%;
+	height: 25%;
+	border: 2px solid yellow;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
