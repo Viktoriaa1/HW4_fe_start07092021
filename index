@@ -1,1 +1,40 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Блочные элементы</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+	<div class="red__first">
+		<div class="first__blue__block"></div>
+		<div class="second__block__blue"></div>
+		<div class="first__blue__block">
+			<div class="first__block__yellow"></div>
+			<div class="first__block__yellow"></div>
+		</div>
+	</div>
+	<div class="red__second">
+		<div class="third__blue__block"></div>
+		<div class="fourth__blue__block""></div>
+		<div class="fourth__blue__block""></div>
+		<div class="third__blue__block"></div>
+	</div>
+	<div class="red__third">
+		<div class="first3__blue__block"></div>
+		<div class="second3__blue__block">
+			<div class="first3__block__yellow"></div>
+			<div class="second3__block__yellow"></div>
+	</div>
+	</div>
+	<div class="red__fourth">
+		<div class="first4__blue__block">
+			<div class="first4__block__yellow"></div>
+			<div class="first4__block__yellow"></div>
+		</div>
+		<div class="second4__block__blue"></div>
+		<div class="first4__blue__block"></div>
+	</div>
+</div>
+</body>
+</html>
